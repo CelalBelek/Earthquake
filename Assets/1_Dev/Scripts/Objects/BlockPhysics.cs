@@ -113,6 +113,7 @@ public class BlockPhysics : MonoBehaviour
     void EarthquakeMagnitude(float value)
     {
         earthquakeMagnitude = value;
+        earthquakeMagnitude *= 1.25f;
     }
 
     void TriggerFire()

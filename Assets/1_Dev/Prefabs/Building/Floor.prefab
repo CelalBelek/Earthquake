@@ -129,7 +129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   structureResistance: 100
   earthquakeMagnitude: 5
-  buildingMaterial: 0
+  buildingMaterial: 2
   thisMeshrenderer: {fileID: 3700147671118412065}
   thisChilds:
   - {fileID: 5638548596118475153}
